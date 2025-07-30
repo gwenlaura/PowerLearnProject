@@ -25,7 +25,7 @@ print (Set_A)
 print (Set_B)
 
 #Dictionaries 
-# Student_info = {'Name': 'Abdi Kadir', 'ID':1001, 'Age':20.2, 'Fees Clearance':'True'}
+Student_info = {'Name': 'Abdi Kadir', 'ID':1001, 'Age':20.2, 'Fees Clearance':'True'}
 print (Student_info) 
 
 Capital_City = {'Kenya':'Nairobi'}
@@ -39,4 +39,4 @@ print(a<b and b<c) #True
 print(a<b) or (b<c) #True
 print(not (a<b)) #False
 
-
+DSA - Everthing is well
